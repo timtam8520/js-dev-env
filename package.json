@@ -13,7 +13,9 @@
 		"test": "mocha --reporter progress buildScripts/testSetup.js \"src/**/*.test.js\"",
 		"test:watch": "npm run test -- --watch"
 	},
-	"dependencies": {},
+	"dependencies": {
+		"whatwg-fetch": "^2.0.4"
+	},
 	"devDependencies": {
 		"babel-cli": "6.16.0",
 		"babel-core": "6.17.0",
