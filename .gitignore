@@ -1,3 +1,6 @@
+# Random Mock data
+src/api/db.json
+
 # Logs
 logs
 *.log
