@@ -1,3 +1,6 @@
+# Production Output Folder
+/dist
+
 # Random Mock data
 src/api/db.json
 
